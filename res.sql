@@ -39,25 +39,25 @@ insert into restaurant (restaurantId, restaurantName, address) values (1, 'McDoa
 
 -- Tables Information
 insert into tables (tableId, tableName, restaurantId) values (1, 'Canyon Silktassel', 1);
-insert into tables (tableId, tableName, restaurantId) values (2, 'Turk''s Head', 2);
-insert into tables (tableId, tableName, restaurantId) values (3, 'Palmer Evening Primrose', 3);
-insert into tables (tableId, tableName, restaurantId) values (4, 'Plitt''s Pore Lichen', 4);
-insert into tables (tableId, tableName, restaurantId) values (5, 'Woodsorrel', 5);
-insert into tables (tableId, tableName, restaurantId) values (6, 'Plains Mock Vervain', 6);
-insert into tables (tableId, tableName, restaurantId) values (7, 'Ophiopogon', 7);
-insert into tables (tableId, tableName, restaurantId) values (8, 'Chinese Peony', 8);
-insert into tables (tableId, tableName, restaurantId) values (9, 'Spreading Asphead', 9);
-insert into tables (tableId, tableName, restaurantId) values (10, 'Eatonella', 10);
-insert into tables (tableId, tableName, restaurantId) values (11, 'Pond Pine', 11);
-insert into tables (tableId, tableName, restaurantId) values (12, 'Horsekiller', 12);
-insert into tables (tableId, tableName, restaurantId) values (13, 'Venus'' Looking-glass', 13);
-insert into tables (tableId, tableName, restaurantId) values (14, 'Naked Buckwheat', 14);
-insert into tables (tableId, tableName, restaurantId) values (15, 'Northern Microseris', 15);
-insert into tables (tableId, tableName, restaurantId) values (16, 'Metcalfe''s Ticktrefoil', 16);
-insert into tables (tableId, tableName, restaurantId) values (17, 'Beard Lichen', 17);
-insert into tables (tableId, tableName, restaurantId) values (18, 'Southwestern False Cloak Fern', 18);
-insert into tables (tableId, tableName, restaurantId) values (19, 'Derris', 19);
-insert into tables (tableId, tableName, restaurantId) values (20, 'Blistered Naval Lichen', 20);
+insert into tables (tableId, tableName, restaurantId) values (2, 'Turk''s Head', 1);
+insert into tables (tableId, tableName, restaurantId) values (3, 'Palmer Evening Primrose', 1);
+insert into tables (tableId, tableName, restaurantId) values (4, 'Plitt''s Pore Lichen', 1);
+insert into tables (tableId, tableName, restaurantId) values (5, 'Woodsorrel', 1);
+insert into tables (tableId, tableName, restaurantId) values (6, 'Plains Mock Vervain', 1);
+insert into tables (tableId, tableName, restaurantId) values (7, 'Ophiopogon', 1);
+insert into tables (tableId, tableName, restaurantId) values (8, 'Chinese Peony', 1);
+insert into tables (tableId, tableName, restaurantId) values (9, 'Spreading Asphead', 1);
+insert into tables (tableId, tableName, restaurantId) values (10, 'Eatonella', 1);
+insert into tables (tableId, tableName, restaurantId) values (11, 'Pond Pine', 1);
+insert into tables (tableId, tableName, restaurantId) values (12, 'Horsekiller', 1);
+insert into tables (tableId, tableName, restaurantId) values (13, 'Venus'' Looking-glass', 1);
+insert into tables (tableId, tableName, restaurantId) values (14, 'Naked Buckwheat', 1);
+insert into tables (tableId, tableName, restaurantId) values (15, 'Northern Microseris', 1);
+insert into tables (tableId, tableName, restaurantId) values (16, 'Metcalfe''s Ticktrefoil', 1);
+insert into tables (tableId, tableName, restaurantId) values (17, 'Beard Lichen', 1);
+insert into tables (tableId, tableName, restaurantId) values (18, 'Southwestern False Cloak Fern', 1);
+insert into tables (tableId, tableName, restaurantId) values (19, 'Derris', 1);
+insert into tables (tableId, tableName, restaurantId) values (20, 'Blistered Naval Lichen', 1);
 
 -- Customers Information
 insert into customers (customersId, name, phone) values (1, 'Tommy Tybalt', '+62-102-860-4527');
