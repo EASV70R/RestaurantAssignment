@@ -1,0 +1,3 @@
+SELECT tableId, tableName FROM `tables`;
+SELECT name, phone, createdAt FROM books AS bks INNER JOIN customers AS u ON(bks.customersId=u.customersId) WHERE bks.customersId=1 ORDER BY `createdAt` DESC
+SELECT tableName, name, phone, createdAt FROM books AS bks INNER JOIN customers AS u ON(bks.customersId=u.customersId) INNER JOIN tables ON(bks.tableId=tables.tableId) WHERE bks.tableId=2 ORDER BY `createdAt` DESC;
